@@ -19,15 +19,15 @@ building real projects, and documenting everything here day by day.
 
 | Day | Topics | Level | Folder |
 |-----|--------|--------|--------|
-| 1 | HTML Basics, Attributes & Semantic Tags | Beginner–Pro | [Day1_HTML_Basics](./Day1_HTML_Basics) |
-| 2 | HTML Forms, Inputs & Tables | Beginner–Pro | [Day2_HTML_Forms](./Day2_HTML_Forms) |
-| 3 | CSS Basics, Selectors & Colors | Beginner–Pro | [Day3_CSS_Basics](./Day3_CSS_Basics) |
-| 4 | CSS Box Model & Positioning | Beginner–Pro | [Day4_CSS_Layout](./Day4_CSS_Layout) |
-| 5 | CSS Flexbox & Grid | Beginner–Pro | [Day5_CSS_Flexbox_Grid](./Day5_CSS_Flexbox_Grid) |
-| 6–10 | Responsive Design + Projects | Intermediate |  |
-| 11–15 | Bootstrap Framework | Intermediate–Pro |  |
-| 16–25 | JavaScript (Core Concepts) | Intermediate–Pro |  |
-| 26–30 | DOM Manipulation + Mini Projects | Pro |  |
+| 1 | HTML Basics, Attributes & Semantic Tags | Beginner–Pro 
+| 2 | HTML Forms, Inputs & Tables | Beginner–Pro 
+| 3 | CSS Basics, Selectors & Colors | Beginner–Pro  
+| 4 | CSS Box Model & Positioning | Beginner–Pro 
+| 5 | CSS Flexbox & Grid | Beginner–Pro 
+| 6–10 | Responsive Design + Projects | Intermediate 
+| 11–15 | Bootstrap Framework | Intermediate–Pro 
+| 16–25 | JavaScript (Core Concepts) | Intermediate–Pro 
+| 26–30 | DOM Manipulation + Mini Projects | Pro 
 
 > 📅 I’ll keep updating this table daily as I progress.
 
